@@ -8,7 +8,8 @@
 
 <h1>Stone Paper Scissors Game</h1>
 
-  <p>This is a Stone Paper Scissors game that uses Machine Learning and Computer Vision to recognise and classify hand gestures for playing.</p>
+  <p>Stone Paper Scissors is an interactive game powered by Machine Learning and Computer Vision, where hand gestures are recognized and classified in real-time to play. No need for buttons or controllers—just use your hand gestures to challenge the AI! The game leverages my custom-built Computer Vision module designed specifically for advanced gesture recognition, making the classic game more immersive and tech-driven.</p>
+  <a href='https://github.com/ravin-d-27/Rock-Paper-Scissors-Classifier'>Link to my previous Project</a>
 
   <h2>How to Run the Game</h2>
     <ol>
